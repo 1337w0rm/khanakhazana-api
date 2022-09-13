@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/menu
+Content-Type: application/json
+
+{
+	"name": "Chicken",
+	"imgSrc": "Aditya",
+	"price": "80",
+	"seller": "6287a7aa24e522187a3485fd"
+}
