@@ -2,9 +2,9 @@ POST http://localhost:3001/api/signup
 Content-Type: application/json
 
 {
-	"username": "aditya",
+	"username": "aditya1",
 	"name": "Aditya",
 	"email": "adityagmail.com",
 	"phone": "987654321",
-	"password": "aditya"
+	"password": "aditya1"
 }
